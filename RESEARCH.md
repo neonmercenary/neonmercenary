@@ -50,8 +50,8 @@ Following a review of existing literature on cross-layer security for on-chain a
 ## 🤝 Collaboration & Contact
 I am open to discussing research collaborations, peer review of my experimental frameworks, or opportunities to contribute to applied AI safety and blockchain security teams. 
 - **GitHub:** [@neonmercenary](https://github.com/neonmercenary)
-- **Email:** [your-email@domain.com]
-- **Twitter/X / LinkedIn:** [Optional: Add link]
+- **Email:** [benjamin.mgbeoji@financier.net]
+- **Twitter/X / LinkedIn:** [https://x.com/secondfrontman]
 
 ---
 *Last updated: October 2026*
