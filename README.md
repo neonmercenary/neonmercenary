@@ -10,4 +10,5 @@ Measuring the security, gas-cost, and operational trade-offs of alternative guar
 My approach combines smart-contract engineering, adversarial testing, and empirical evaluation. I publish research artifacts with explicit assumptions, reproducible procedures, measured results, and documented limitations.
 
 Current research: Establishing a reproducible baseline for safety constraints in autonomous financial execution.
+<iframe src="https://giphy.com/embed/ztinrC3Dyh4mA" width="480" height="322" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/book-pilot-reading-ztinrC3Dyh4mA">via GIPHY</a></p>
 - 📫 How to reach me: https://t.me/thirdalchemy
