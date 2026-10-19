@@ -10,7 +10,7 @@ I investigate which safety properties of autonomous financial execution can be g
 
 My approach combines smart-contract engineering, adversarial testing, and empirical evaluation. I publish research artifacts with explicit assumptions, reproducible procedures, measured results, and documented limitations.
 
-> **Current Research:** Establishing a reproducible baseline for safety constraints in autonomous financial execution.
+> **Current Research:** Establishing a reproducible baseline for safety constraints and attack vectors in autonomous financial execution.
 
 <br>
 
